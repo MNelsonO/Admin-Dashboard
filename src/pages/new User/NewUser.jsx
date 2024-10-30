@@ -24,11 +24,11 @@ export default function NewUser() {
         </div>
         <div className="newUserItem">
           <label>Phone</label>
-          <input type="text" placeholder="+1 123 456 78" />
+          <input type="text" placeholder="+254 123 456 78" />
         </div>
         <div className="newUserItem">
           <label>Address</label>
-          <input type="text" placeholder="New York | USA" />
+          <input type="text" placeholder="Kenya | Nairobi" />
         </div>
         <div className="newUserItem">
           <label>Gender</label>

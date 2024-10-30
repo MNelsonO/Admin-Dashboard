@@ -43,7 +43,7 @@ export default function User() {
             <span className="userShowTitle">Contact Details</span>
             <div className="userShowInfo">
               <PhoneAndroidIcon className="userShowIcon" />
-              <span className="userShowInfoTitle">+1 123 456 67</span>
+              <span className="userShowInfoTitle">+254 123 456 67</span>
             </div>
             <div className="userShowInfo">
               <MailOutlineIcon className="userShowIcon" />
@@ -51,7 +51,7 @@ export default function User() {
             </div>
             <div className="userShowInfo">
               <NearMeIcon className="userShowIcon" />
-              <span className="userShowInfoTitle">New York | USA</span>
+              <span className="userShowInfoTitle">Kenya| Nairobi</span>
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@ export default function User() {
                 <label>Phone</label>
                 <input
                   type="text"
-                  placeholder="+1 123 456 67"
+                  placeholder="+254 123 456 67"
                   className="userUpdateInput"
                 />
               </div>
@@ -95,7 +95,7 @@ export default function User() {
                 <label>Address</label>
                 <input
                   type="text"
-                  placeholder="New York | USA"
+                  placeholder="Kenya | Nairobi"
                   className="userUpdateInput"
                 />
               </div>
